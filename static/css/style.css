@@ -1,0 +1,49 @@
+.red {
+    color:darkred;
+}
+.blue {
+    color:blue;
+}
+div {
+    color: #333333;
+    text-decoration: underline;
+    background-color: aquamarine;
+    font-size: 20px;
+    font-family: Meiryo;
+    font-weight: lighter;
+    margin:auto;
+}
+
+.yellow_background{
+    background-color: yellow;
+}
+
+.title:hover{
+    text-decoration: underline;
+}
+
+a:active{
+    font-size: 200%;
+}
+
+a{
+    color: blueviolet;
+    font-size: 200px;
+    text-decoration: none;
+    transition: 0.5s all;
+}
+
+a:hover,
+a:active{
+    color:deeppink;
+}
+
+h1{
+    display:inline-block;
+    background: url("http://omgcutethings.com/wp-content/uploads/2014/01/cute-pets-005-01082014.jpg");
+    width: 500px;
+    height: 500px;
+    padding: 10px;
+    margin: 50px;
+}
+
